@@ -1,0 +1,68 @@
+<--Daryna Bilinska -->
+body {
+  background: linear-gradient(to bottom,#b07f4c 50%, #0000 50%);
+}
+button{
+  background-color:#b07f4c;
+  color:white;
+   position: relative;
+  left: 150px;
+  top:140px;
+}
+.textone{
+  color:white;
+  position: relative;
+  left: 100px;
+  top:100px;
+}
+
+.text{
+  color:#808080;
+  font-size:1.5em;
+  margin-bottom:20px;
+  text-align: center;
+  position: relative; 
+  top:-100px; 
+}
+.follow{
+    text-align: center;
+ }
+.join{
+  color:#808080;
+}
+.ph{
+  position: relative; 
+  left: 1069px;
+  top:-100px;
+}
+.pht{
+   position: relative; 
+  left: 1300px;
+  top:-271px;
+}
+hr {
+  margin: auto 420px
+}
+.social-buttons {
+    display: flex;
+    justify-content: center;
+}
+.social-button {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: #333; 
+    border-radius: 9px;     
+    color: #fff;            
+    text-decoration: none;
+    transition: background-color 0.3s ease; 
+}
+.social-button:hover{
+    background-color: #b07f4c; 
+}
+.social-button i {
+    font-size: 20px;  
+}
+  
